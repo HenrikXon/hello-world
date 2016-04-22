@@ -1,1 +1,12 @@
 Things just got a whole lot different, I can smell that change is on the rise.
+
+Well I don't know about that, I think things might be kind of crazy.
+
+
+<?php 
+
+	echo "fuck off monkey!";
+
+?>
+
+I can feel it in my toenails goddamnit!
