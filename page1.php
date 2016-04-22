@@ -8,8 +8,7 @@
 <body>
 <?php
 
-	echo "this is body";
-
+	echo "this might be a body";
 ?>
 </body>
 </html>
